@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Barthe
 
-<!--
-**abarthe/abarthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ServiceNow Implementation Specialist | CSA Certified
+I specialize in **Customer Service Management (CSM)** implementations and enterprise integrations, with a unique background in revenue operations that helps me build business-aligned technical solutions.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+![ServiceNow](https://img.shields.io/badge/ServiceNow-CSA_Certified-00A1E0?style=flat-square&logo=servicenow)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript)
+![REST APIs](https://img.shields.io/badge/REST-APIs-009688?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- Building ServiceNow portfolio projects
+- Pursuing CIS-CSM certification
+- Contributing to ServiceNow community
+
+### 📫 Connect
+- Website: [barthe.ca](https://barthe.ca)
+- LinkedIn: [linkedin.com/in/barthegarba](https://linkedin.com/in/barthegarba)
+- Email: hello@barthe.ca
+
+### 💼 Open to Opportunities
+Full-time and contract roles in ServiceNow implementation and development.
