@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Barthe!
 
-<!--
-**abarthe/abarthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Martech & RevOps Specialist** based in **Canada**  
+*5+ years scaling SMB revenue: lead gen → CRM → automation*
 
-Here are some ideas to get you started:
+## What I Do
+- Lead Generation (Meta Ads, Apollo.io)  
+- CRM Optimization (HubSpot certified, Pipedrive)  
+- Revenue Operations (n8n, Zapier, Retell AI)  
+- Growth Consulting for SMBs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**CRMs**: HubSpot • Pipedrive • GoHighLevel  
+**Automation**: n8n • Zapier • Retell AI  
+**Analytics**: Google Analytics • Meta Ads • Apollo.io  
+**Dev**: JavaScript • HTML/CSS • Flutter  
+
+## Connect
+- 🌐 [barthe.ca](https://barthe.ca)  
+- 📧 hello@barthe.ca  
+- 💼 [LinkedIn](https://linkedin.com/in/barthegarba)
